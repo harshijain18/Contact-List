@@ -1,0 +1,22 @@
+.et{
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin: 20px 20px 0 0;
+}
+.cd{
+  border-radius: 10px;
+  position: relative;
+  left: 500px;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  box-sizing: border-box;
+  box-shadow: 0 5px 9px ;
+}
+.head{
+  
+  text-align: center;
+  font-style: italic;
+  
+}
